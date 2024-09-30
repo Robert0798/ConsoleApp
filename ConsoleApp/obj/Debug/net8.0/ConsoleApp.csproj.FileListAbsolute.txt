@@ -1,0 +1,14 @@
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/robertanderson/Desktop/repos/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
